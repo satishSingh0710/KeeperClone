@@ -58,14 +58,6 @@ npm i @hello-pangea/dnd
 
 Contributions are welcome! If you find any bugs or have suggestions for new features, please open an issue or submit a pull request.
 
-## Demo
-You can see a live demo of the project
-```
-https://keepitnotes.vercel.app/
-```
 
-## Author
-- LinkedIn - [Bhavya Khurana](https://www.linkedin.com/in/bhavyakhurana24/)
-- Frontend Mentor - [@TheNewC0der-24](https://www.frontendmentor.io/profile/TheNewC0der-24)
-- Twitter - [@Bhavya06001699](https://twitter.com/Bhavya06001699)
+
 
