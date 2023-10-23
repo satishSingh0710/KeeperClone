@@ -2,18 +2,6 @@
 
 This is a clone of Google Keep created using **React** and **Material UI**. It allows users to add, archive, and delete notes, with notes being stored in local storage. The app also features drag and drop functionality for notes and automatically deletes deleted notes after 7 days.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Preview](#preview)
-- [PWA](#pwa)
-- [Contributing](#contributing)
-- [Demo](#demo)
-- [Author](#author)
-
 ## Installation
 To run the project locally, follow these steps:
 
@@ -43,16 +31,6 @@ npm i uuid
 npm i @hello-pangea/dnd
 ```
 
-## Preview
-<p>
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-1.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-2.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-3.png" width="400">
-  <img src="https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/Preview/Preview-4.png" width="400">
-</p>
-
-## PWA
-![image](https://github.com/TheNewC0der-24/Google-Keep-Clone/blob/master/PWA.png)
 
 ## Contributing
 
